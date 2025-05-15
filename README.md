@@ -71,6 +71,7 @@ export default function MedukaApp() {
 Use Expo for easy cross-platform deployment (iOS & Android).
 
 Roadmap
+
  [x] MVP: Web interface and full feature set
 
  [ ] Beta testing on mobile (via WebView)
